@@ -1,7 +1,7 @@
 
 env:
    global:
-     - CONAN_REFERENCE: "cppcache/0.0.1"
+     - CONAN_REFERENCE: "cpp_cache/0.0.1"
      - CONAN_USERNAME: "szmyd"
      - CONAN_LOGIN_USERNAME: "szmyd"
      - CONAN_CHANNEL: "alpha"
