@@ -10,5 +10,4 @@ if [[ "$(uname -s)" == 'Darwin' ]]; then
     pyenv activate conan
 fi
 
-conan remote add szmyd https://api.bintray.com/conan/szmyd/conan-repo
 python build.py
