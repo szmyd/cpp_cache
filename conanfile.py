@@ -4,7 +4,7 @@ from conans import ConanFile, CMake
 
 class CPPCacheConan(ConanFile):
     name = "cpp_cache"
-    version = "0.0.1-pre"
+    version = "0.0.1"
 
     description = "A header only set of Cache implementations."
     url = "http://github.com/szmyd/cpp_cache"
