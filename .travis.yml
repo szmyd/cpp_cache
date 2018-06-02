@@ -5,7 +5,8 @@ env:
      - CONAN_USERNAME: "szmyd"
      - CONAN_LOGIN_USERNAME: "szmyd"
      - CONAN_CHANNEL: "alpha"
-     
+     - CONAN_REMOTES: "https://api.bintray.com/conan/szmyd/conan-repo"
+
 linux: &linux
    os: linux
    sudo: required
